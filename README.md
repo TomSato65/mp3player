@@ -7,7 +7,6 @@ Programa Para Tocar Músicas MP3 Demosntrando os Timbres dos Pedais Tom Tone</p>
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
 </p>
 
 <p align="center">
@@ -17,7 +16,7 @@ Programa Para Tocar Músicas MP3 Demosntrando os Timbres dos Pedais Tom Tone</p>
 <br>
 
 <p align="center">
-  <img alt="projeto MP3 Player" src="images/MP3_player_cover.png" width="100%">
+  <img alt="projeto MP3 Player" src=".github/MP3_player_cover.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
