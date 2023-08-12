@@ -17,7 +17,7 @@ Programa Para Tocar Músicas MP3 Demosntrando os Timbres dos Pedais Tom Tone</p>
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="Images/MP3_player_cover.png" width="100%">
+  <img alt="projeto DevLinks" src="./images/MP3_player_cover.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -27,20 +27,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - Git e Github
-- Figma
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+O MP3 Player estilo Spotify que executa exemplos de sons obtidos através dos pedais Tom Tone para servir de amostra à ser escutados online.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
 
 ---
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
