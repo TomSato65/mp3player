@@ -29,9 +29,16 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O MP3 Player estilo Spotify que executa exemplos de sons obtidos através dos pedais Tom Tone para servir de amostra à ser escutados online.
+O MP3 Player que executa exemplos de sons obtidos através dos pedais Tom Tone para servir de amostra à ser escutados online. 
 
 ## 🔖 Layout
 
+Inpirado no modelo apresentado no player do Spotify, incluindo:
 
+- Capa da Música
+- Nome da Música
+- Artista e Interprete
+- Tempo de Execução
+- Tempo Total da Música
+- Botões de Shuffle, Previus, Play/Pause, Next e Repeat
 ---
