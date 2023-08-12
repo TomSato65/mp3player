@@ -17,7 +17,7 @@ Programa Para Tocar Músicas MP3 Demosntrando os Timbres dos Pedais Tom Tone</p>
 <br>
 
 <p align="center">
-  <img alt="projeto MP3 Player" src="./images/MP3_player_cover.png" width="100%">
+  <img alt="projeto MP3 Player" src="images/MP3_player_cover.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
