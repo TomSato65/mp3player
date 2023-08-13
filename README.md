@@ -40,5 +40,5 @@ Inpirado no modelo apresentado no player do Spotify, incluindo:
 - Artista e Interprete
 - Tempo de Execução
 - Tempo Total da Música
-- Botões de Shuffle, Previus, Play/Pause, Next e Repeat
+- Botões de Shuffle, Previous, Play/Pause, Next e Repeat
 ---
